@@ -1,0 +1,17 @@
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/Temp/bin/Debug/UnityEngine.dll
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/Temp/bin/Debug/UnityEditor.dll
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/Temp/bin/Debug/Mono.Cecil.dll
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/Temp/bin/Debug/Unity.DataContract.dll
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/macmin/Documents/Unity Projects/FlowFieldProject/Temp/bin/Debug/Mono.Cecil.Mdb.dll
